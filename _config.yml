@@ -1,0 +1,9 @@
+title: Jean B. Kwizera
+description: Hi, I'm JB! I love to build efficient and scalable intelligent solutions.
+
+show_downloads: true
+github:
+  resume_url: assets/resume.pdf
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
